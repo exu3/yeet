@@ -1,13 +1,13 @@
 import AuthModal from "../components/AuthModal";
 import HeadObject from "../components/head";
 
-export default function Home() {
+export default function Register() {
   return (
-    <div>
+    <div className="bg-galaxy w-screen h-screen">
       <HeadObject />
-      <main>
+      <main className="flex items-center justify-center">
         <div>
-          <p>You're not supposed to see this page.</p>
+          <AuthModal />
         </div>
       </main>
     </div>
