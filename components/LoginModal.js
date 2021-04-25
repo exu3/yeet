@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 export default function LoginModal() {
   const router = useRouter();
   return (
-    <div className="font-rubik bg-blue w-11/12 md:w-full text-white p-8 items-center rounded-lg mt-48">
+    <div className="font-rubik bg-blue w-11/12 md:w-full text-white p-8 items-center rounded-lg mt-16">
       <div className="text-center mt-4 mb-8">
         <h1 className="text-5xl font-bold">Sign In</h1>
         <p className="text-lightGray">
