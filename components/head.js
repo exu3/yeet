@@ -24,7 +24,7 @@ export default function HeadObject({ children }) {
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content={twitter} />
       <meta name="twitter:creator" content={twitter} />
-      {/* Add analytics here */}
+      <script src='https://analytics.stacc.cc/api/script/OjM0X8Gnbo7E'></script>
       {children}
     </Head>
   );
