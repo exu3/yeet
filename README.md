@@ -1,13 +1,23 @@
-# A Next.js Template
+# Yeet me into space
 
-## What it includes
+What is this? (The title pretty much sums it up.) Yeet yourself into space. :rocket:
 
+## Built with
+
+- Next.js
 - Tailwind CSS
-- next-themes (@pacocoursey)
-- swr (@vercel)
 - framer-motion
 - react-icons
+- Twemoji
 
-## Deploy to Vercel
+## Inspiration
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Feilla1%2Fnext-starter)
+I just woke up one day and dumped my brain into this repo, and this is what happened.
+
+## Set up locally
+
+1. Clone this repo `git clone https://github.com/eilla1/yeet.git`
+2. Do `npm install` to install dependencies
+3. Then `npm run dev` to run the site locally at `localhost:3000`
+
+:v: :rocket: :moon:
