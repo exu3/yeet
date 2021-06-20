@@ -1,6 +1,6 @@
 # Yeet me into space
 
-What is this? (The title pretty much sums it up.) Yeet yourself into space. :rocket:
+What is this? (The title pretty much sums it up.) Yeet yourself into space. :rocket: (I built this at Los Altos Hacks V.)
 
 ## Built with
 
