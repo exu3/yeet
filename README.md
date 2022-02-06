@@ -16,7 +16,7 @@ I just woke up one day and dumped my brain into this repo, and this is what happ
 
 ## Set up locally
 
-1. Clone this repo `git clone https://github.com/eilla1/yeet.git`
+1. Clone this repo `git clone https://github.com/exu3/yeet.git`
 2. Do `npm install` to install dependencies
 3. Then `npm run dev` to run the site locally at `localhost:3000`
 
